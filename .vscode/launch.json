@@ -1,0 +1,141 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Alphabets",
+            "request": "launch",
+            "mainClass": "keywords.abstractKeyword.Alphabets",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Apartment",
+            "request": "launch",
+            "mainClass": "keywords.finalKeyword.Apartment",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "ClassRoom",
+            "request": "launch",
+            "mainClass": "keywords.staticKeyword.ClassRoom",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "keywords.superKeyword.Example1",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Example2",
+            "request": "launch",
+            "mainClass": "keywords.thisKeyword.Example2",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "keywords.thisKeyword.Example1",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Office",
+            "request": "launch",
+            "mainClass": "oops.inheritance.multiple.Office",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Hybrid",
+            "request": "launch",
+            "mainClass": "oops.inheritance.hybrid.Hybrid",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Human",
+            "request": "launch",
+            "mainClass": "oops.inheritance.hierarchical.Human",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Son",
+            "request": "launch",
+            "mainClass": "oops.inheritance.multilevel.Son",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Family",
+            "request": "launch",
+            "mainClass": "oops.inheritance.single.Family",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Generation",
+            "request": "launch",
+            "mainClass": "oops.polymorphism.overriding.Generation",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Departments",
+            "request": "launch",
+            "mainClass": "oops.polymorphism.overloading.Departments",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "oops.polymorphism.overloading.Main",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Bus",
+            "request": "launch",
+            "mainClass": "oops.encapsulation.Bus",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Travel",
+            "request": "launch",
+            "mainClass": "oops.encapsulation.Travel",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Network",
+            "request": "launch",
+            "mainClass": "oops.abstraction.Network",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Room",
+            "request": "launch",
+            "mainClass": "classes.Room",
+            "projectName": "BasicToIntermediate_fe1b42b5"
+        }
+    ]
+}
