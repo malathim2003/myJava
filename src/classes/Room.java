@@ -1,4 +1,5 @@
 package classes;
+///my java classs
 import java.util.Scanner;
 class House{
     int No;
